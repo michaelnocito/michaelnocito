@@ -39,7 +39,7 @@ greener.
 I believe technology should make the environment better, not worse. 
 I'm committed to responsible AI practices, low-footprint tooling, and 
 working with platforms that take their ecological impact seriously. 
-You can do great data work and still give a damn about the planet.
+
 
 ---
 
