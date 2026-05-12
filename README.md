@@ -1,15 +1,16 @@
 # Hey, I'm Michael Nocito 👋
 
-Data analyst based in Glassboro, NJ. 8 years as an implementation analyst — 
-migrating enterprise contract data, running projects end to end, building 
-processes from scratch. Now building Python tools I actually want to exist.
+Data analyst based in Glassboro, NJ. 8 years as an implementation analyst —
+migrating enterprise contract data, running projects end to end, building
+processes from scratch as a small company scaled. Now building Python tools
+I actually want to exist.
 
 ---
 
 ## What I'm Building
 
 ### 📊 Test Data & Document Generator
-Free Windows app. Generates fictional PDFs, Word docs, HTML, and Excel datasets 
+Free Windows app. Generates fictional PDFs, Word docs, HTML, and Excel datasets
 for testing, QA, demos, and training. 3-step wizard. No Python required. Fully offline.
 
 👉 [Download & learn more](https://github.com/michaelnocito/test-data-doc-generator)
@@ -19,7 +20,6 @@ A Python learning project in 3 layers — build a real data-cleaning tool,
 the kind used in professional data migration work. No toy examples.
 
 👉 [Check it out](https://github.com/michaelnocito/spreadsheet-cleaner)
-
 
 ---
 
