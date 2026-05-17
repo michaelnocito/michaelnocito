@@ -29,6 +29,13 @@ projects — Test Data & Document Generator (Windows app wizard view) and Spread
 Cleaner (terminal or notebook output). Real screenshots only, no mockups.
 -->
 
+### NEXUS — Learn SQL by Solving a Mystery
+A narrative-driven game where you play a junior data analyst who uncovers
+$1.87M in corporate fraud — by writing real SQL against a live database.
+No slides, no exercises. Every query is evidence. Free and open source.
+
+[Play it →](https://github.com/michaelnocito/nexus-sql-mystery)
+
 ### Test Data & Document Generator
 A free Windows app that generates fictional PDFs, Word docs, HTML files, and Excel
 datasets for testing, QA, demos, and training. Three-step wizard, fully offline,
