@@ -36,12 +36,12 @@ No slides, no exercises. Every query is evidence. Free and open source.
 
 [Play it →](https://github.com/michaelnocito/nexus-sql-mystery)
 
-### Test Data & Document Generator
-A free Windows app that generates fictional PDFs, Word docs, HTML files, and Excel
-datasets for testing, QA, demos, and training. Three-step wizard, fully offline,
-no Python required.
+### RecordForge
+A free Windows app and Python package that generates fictional PDFs, Word docs, HTML files,
+and Excel datasets for testing, QA, demos, and training. Three-step wizard, fully offline,
+no Python required. Also available as a pip-installable package with a CLI and Python API.
 
-[Download and learn more →](https://github.com/michaelnocito/test-data-doc-generator)
+[Download and learn more →](https://github.com/michaelnocito/recordforge)
 
 ### Spreadsheet Cleaner
 A beginner-friendly Python project built in three layers. You build a real
