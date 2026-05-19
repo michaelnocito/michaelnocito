@@ -1,96 +1,43 @@
-<!--
-Visual plan 1 — Hero banner
-Future path: assets/hero.png (or assets/hero.svg)
-Alt text: "Michael Nocito — data analyst, Python builder, and instructional designer"
-What to create later: A simple, light-themed banner (~1200x300) with the name "Michael Nocito",
-a one-line tagline ("Building practical Python tools and learning resources"), and a small
-mark or icon. Keep it clean — no stock photography, no marketing gradients.
--->
-
 # Hi, I'm Michael Nocito
 
-Data analyst in Glassboro, NJ. Eight years as an implementation analyst — migrating
-enterprise contract data, running projects end to end, building processes from scratch
-as a small company scaled.
+Data analyst in Glassboro, NJ. Eight years as an implementation analyst — migrating enterprise contract data, running projects end to end, building processes from scratch as a small company scaled.
 
-These days I build small Python tools I wish existed, and I write the kind of guided,
-plain-English docs I wish I'd had when I was learning.
+These days I build small Python tools I wish existed, and I write the kind of guided, plain-English docs I wish I'd had when I was learning.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michaelnocito-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelnocito)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-michaelnocito-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/michaelnocito)
 
 ---
 
 ## What I'm Building
 
-<!--
-Visual plan 2 — Project card strip
-Future path: assets/projects.png (or two files: assets/test-data-doc-generator.png and assets/spreadsheet-cleaner.png)
-Alt text: "Screenshots of Test Data & Document Generator and Spreadsheet Cleaner"
-What to create later: A side-by-side card strip (~1200x500) showing the two flagship
-projects — Test Data & Document Generator (Windows app wizard view) and Spreadsheet
-Cleaner (terminal or notebook output). Real screenshots only, no mockups.
--->
+### 🕵️ [NEXUS — Learn SQL by Solving a Mystery](https://michaelnocito.github.io/nexus-sql-mystery/)
+A free desktop game where you play a data analyst uncovering $1.87M in corporate fraud — by writing real SQL against a live database. No slides, no multiple choice, no fake exercises. Every query is evidence. Two full seasons.
 
-### NEXUS — Learn SQL by Solving a Mystery
-A narrative-driven game where you play a junior data analyst who uncovers
-$1.87M in corporate fraud — by writing real SQL against a live database.
-No slides, no exercises. Every query is evidence. Free and open source.
-
-[Play it →](https://github.com/michaelnocito/nexus-sql-mystery)
-
-### RecordForge
-A free Windows app and Python package that generates fictional PDFs, Word docs, HTML files,
-and Excel datasets for testing, QA, demos, and training. Three-step wizard, fully offline,
-no Python required. Also available as a pip-installable package with a CLI and Python API.
-
-[Download and learn more →](https://github.com/michaelnocito/recordforge)
-
-### Spreadsheet Cleaner
-A beginner-friendly Python project built in three layers. You build a real
-spreadsheet auditing and cleaning tool — the kind used in professional data
-migration work. Guided comments, plain-English docs, no toy examples.
-
-[Check it out →](https://github.com/michaelnocito/spreadsheet-cleaner)
+**→ [nexus-sql-mystery](https://github.com/michaelnocito/nexus-sql-mystery)** &nbsp;·&nbsp; Python · PySide6 · SQLite
 
 ---
 
-## How I Work
+### 🗂️ [RecordForge — Realistic Test Files, Zero Real Data](https://michaelnocito.github.io/recordforge/)
+A free Windows app and Python package that generates fictional PDFs, Word docs, Excel datasets, and HTML files for QA, demos, ETL testing, and training. Three-step wizard. Fully offline. Also installable via pip.
 
-<!--
-Visual plan 3 — Workflow / mission diagram
-Future path: assets/workflow.svg
-Alt text: "Learn → Build → Document → Share workflow diagram"
-What to create later: A simple horizontal four-step flow (~1000x150) with arrows
-between Learn, Build, Document, and Share. Flat style, matching the hero banner.
-SVG so it scales cleanly on any GitHub theme.
--->
-
-**Learn → Build → Document → Share.** I pick a real problem, build a small tool
-to solve it, document the build so someone else can learn from it, and put the
-result out in the open. Most of what's here started as something I needed at work
-or wanted to teach.
+**→ [recordforge](https://github.com/michaelnocito/recordforge)** &nbsp;·&nbsp; Python · Windows installer · pip package
 
 ---
 
-## Stack
+### 🧼 [Spreadsheet Cleaner — Build a Real Python Tool](https://michaelnocito.github.io/spreadsheet-cleaner/)
+A beginner Python project where you build a working spreadsheet auditing and cleaning tool — layer by layer, with guided comments and plain-English docs. Real output from the first run. No experience needed.
 
-- **Python** — pandas, pywebview, CustomTkinter, and growing
-- **SQL** — analysis and querying
-- **Tableau** — dashboards and visualization
-- **Git / GitHub** — version control and open source
+**→ [spreadsheet-cleaner](https://github.com/michaelnocito/spreadsheet-cleaner)** &nbsp;·&nbsp; Python · pandas · beginner-friendly
 
 ---
 
-## Connect
+## Background
 
-- [LinkedIn](https://linkedin.com/in/michaelnocito)
-- mnocito11@yahoo.com
-- Actively looking for junior data analyst roles
+- **8 years** as an implementation analyst — enterprise contract data migration, end-to-end project ownership
+- Comfortable with SQL, Python, Excel, and the messy reality of data that doesn't behave
+- Building tools and learning resources that prioritize clarity over cleverness
 
 ---
 
-If a project here helped you, the best thing you can do is star it — that's how
-other people find it. If you'd like to support the work directly, a coffee is
-appreciated but never expected.
-
-<a href="https://buymeacoffee.com/michaelnocito" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
-</a>
+*Always building. Reach me on [LinkedIn](https://www.linkedin.com/in/michaelnocito).*
