@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Michael Nocito
 Data analyst in Glassboro, NJ. Eight years as an implementation analyst — migrating enterprise contract data, running projects end to end, building processes from scratch as a small company scaled.
 
@@ -36,6 +35,3 @@ I've been drawing charcoal portraits for about ten years. Mostly dogs. Occasiona
 - Building tools and learning resources that prioritize clarity over cleverness
 ---
 *Always building. Reach me on [LinkedIn](https://www.linkedin.com/in/michaelnocito).*
-```
-
-This Markdown should be ready to copy and paste into your GitHub README.md file.
