@@ -14,6 +14,11 @@ A free desktop game where you play a data analyst uncovering $1.87M in corporate
 
 **→ [nexus-sql-mystery](https://github.com/michaelnocito/nexus-sql-mystery)** &nbsp;·&nbsp; Python · PySide6 · SQLite
 ---
+### 📊 [SQL Prep Kit — Learn SQL by Reading It Out Loud](https://michaelnocito.github.io/sql-prep-kit/)
+A free web app for analyst interview prep. Every code example maps line-by-line to plain English — training the skill interviews actually test. Twelve SQL lessons, real SQLite running in the browser, honest readiness score. Also contains a full Python track (10 lessons + exercises) in the original Pythonista app.
+
+**→ [sql-prep-kit](https://github.com/michaelnocito/sql-prep-kit)** &nbsp;·&nbsp; JavaScript · sql.js · Python (Pythonista)
+---
 ### 🗂️ [RecordForge — Realistic Test Files, Zero Real Data](https://michaelnocito.github.io/recordforge/)
 A free Windows app and Python package that generates fictional PDFs, Word docs, Excel datasets, and HTML files for QA, demos, ETL testing, and training. Three-step wizard. Fully offline. Also installable via pip.
 
