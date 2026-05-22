@@ -19,10 +19,10 @@ A free desktop game where you play a data analyst uncovering $1.87M in corporate
 
 ---
 
-### 📊 [SQL Prep Kit — Learn SQL by Reading It Out Loud](https://michaelnocito.github.io/sql-prep-kit/)
-A free web app for analyst interview prep. Every code example maps line-by-line to plain English — training the skill interviews actually test. Twelve SQL lessons, real SQLite running in the browser, honest readiness score. Also contains a full Python track (10 lessons + exercises) in the original Pythonista app.
+### 📊 [Analyst Prep Kit — Browser-Based Prep for Data Analytics Interviews](https://michaelnocito.github.io/analyst-prep-kit/)
+A free five-module prep suite covering every tool interviewers test: SQL, Excel, Python, Tableau, and Statistics. Each module has 12 lessons with read-it-aloud code breakdowns, 5 drill types, flashcards, a glossary, and a skill readiness score. Real in-browser environments (live SQLite, Pyodide terminal, Chart.js visualizations). No install, no login.
 
-**→ [sql-prep-kit](https://github.com/michaelnocito/sql-prep-kit)** &nbsp;·&nbsp; JavaScript · sql.js · Python (Pythonista)
+**→ [analyst-prep-kit](https://github.com/michaelnocito/analyst-prep-kit)** &nbsp;·&nbsp; JavaScript · sql.js · Pyodide · Chart.js
 
 ---
 
