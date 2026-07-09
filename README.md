@@ -10,10 +10,10 @@ I build tools for analysts that are low-friction, beginner-friendly, and made to
 
 ## Analysis & Portfolio
 
-### 📈 [Telco Customer Churn: Exploratory Data Analysis](https://github.com/michaelnocito/telco-churn-analysis)
-Why telecom customers leave, and which signals predict churn early enough to act on. 7,043 customers cleaned and explored in Python/pandas, from raw data to plain-English findings on contract type, tenure, charges, and add-ons.
+### 💎 [Steam Hidden Gems: Finding Great Games with SQL](https://michaelnocito.github.io/steam-hidden-gems-list/)
+A SQL analysis of a real ~125,000-game Steam dataset to surface 175 highly rated games almost nobody has played. The interesting part was the troubleshooting: the source file shipped with a broken header that silently loaded every value into the wrong column, so the work was catching it, fixing it without touching the raw data, and validating the results against reality before trusting them. The findings live in a browsable front-end where real players vote on whether each pick is actually a hidden gem.
 
-**→ [telco-churn-analysis](https://github.com/michaelnocito/telco-churn-analysis)** &nbsp;·&nbsp; Python · pandas · Google Colab
+**→ [browse the list & vote](https://michaelnocito.github.io/steam-hidden-gems-list/)** &nbsp;·&nbsp; **[how it was built (SQL + methodology)](https://github.com/michaelnocito/steam-hidden-gems)** &nbsp;·&nbsp; SQL · SQLite · data cleaning · validation
 
 ---
 
