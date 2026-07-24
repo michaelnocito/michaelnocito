@@ -45,6 +45,15 @@ Lets a manager watch a candidate do real Excel work on a call instead of a cheat
 
 ---
 
+## Writing
+
+### ✍️ [How to Comment SQL So It Teaches](https://michaelnocito.github.io/analyst-prep-kit/guides/sql-teaching-comments/)
+The documentation format I use across every SQL project here, written up in full: a boxed WHY header that stores the decision behind a query, a clause-by-clause read-out-loud block a beginner can follow, and a query body left completely clean. Includes the full before and after, the conventions that keep a long `.sql` file readable, and the self-explanation and generation-effect research the format rests on. Also on [DEV](https://dev.to/michaelnocito/how-to-comment-sql-so-it-teaches-42ak).
+
+**→ [14 analyst how-to guides](https://michaelnocito.github.io/analyst-prep-kit/guides/)** covering SQL, thresholds, metric definitions, entity resolution, Git, and large datasets.
+
+---
+
 ## Tools & Learning Games
 
 - **[SQL Quest](https://michaelnocito.github.io/sql-quest/)**: a space defense game where real SQL queries control your cannon, 23 waves from `SELECT` to `GROUP BY`. Live SQLite in the browser. → [sql-quest](https://github.com/michaelnocito/sql-quest)
