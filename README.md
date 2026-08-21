@@ -50,7 +50,7 @@ Lets a manager watch a candidate do real Excel work on a call instead of a cheat
 ### ✍️ [How to Comment SQL So It Teaches](https://michaelnocito.github.io/analyst-prep-kit/guides/sql-teaching-comments/)
 The documentation format I use across every SQL project here, written up in full: a boxed WHY header that stores the decision behind a query, a clause-by-clause read-out-loud block a beginner can follow, and a query body left completely clean. Includes the full before and after, the conventions that keep a long `.sql` file readable, and the self-explanation and generation-effect research the format rests on. Also on [DEV](https://dev.to/michaelnocito/how-to-comment-sql-so-it-teaches-42ak).
 
-The format above is free. **[The SQL Comment System](https://michaelnocito.gumroad.com/l/sql-comment-system)** ($29) is the agent that enforces it, plus a 12-point scoring rubric and handoff-mode examples.
+The format above is free. **[The SQL Comment System](https://gumroad.com/u/vsxo9laj)** ($29) is the agent that enforces it, plus a 12-point scoring rubric and handoff-mode examples.
 
 **→ [14 analyst how-to guides](https://michaelnocito.github.io/analyst-prep-kit/guides/)** covering SQL, thresholds, metric definitions, entity resolution, Git, and large datasets.
 
