@@ -17,12 +17,6 @@ A SQL analysis of a real ~125,000-game Steam dataset to surface 166 highly rated
 
 ---
 
-### 📉 [Telco Customer Churn: Risk Persona Analysis](https://github.com/michaelnocito/telco-churn-analysis)
-A retention analysis of 7,043 telecom customers in Python and pandas that gets past the 26.5% headline churn rate to who is actually leaving. Splitting the base into four tenure personas shows the loss is front-loaded: first-year customers churn at 47% against 10% for the loyal core, and the mechanism is contract type, 43% month-to-month versus 3% on two-year terms. Ends with three retention plays aimed at the first-year window, each tied to a number in the data.
-
-**→ [read the analysis](https://github.com/michaelnocito/telco-churn-analysis)** &nbsp;·&nbsp; **[the script behind every chart](https://github.com/michaelnocito/telco-churn-analysis/blob/main/notebooks/churn_analysis.py)** &nbsp;·&nbsp; Python · pandas · matplotlib · Tableau
-
----
 
 ### 📊 [Analyst Prep Kit: Browser-Based Prep for Data Analytics](https://michaelnocito.github.io/analyst-prep-kit/)
 A free, browser-based suite covering the tools interviewers test: SQL, Excel, Python, Tableau, Power BI, Statistics, and interview prep. Read-it-aloud code breakdowns and hands-on drills in real in-browser environments (live SQLite, Pyodide, Chart.js). No install, no login. An All-Access Pass adds the deeper interview tracks, mock exams, the analyst job sim, and the final exam.
@@ -50,10 +44,6 @@ Lets a manager watch a candidate do real Excel work on a call instead of a cheat
 ### ✍️ [How to Comment SQL So It Teaches](https://michaelnocito.github.io/analyst-prep-kit/guides/sql-teaching-comments/)
 The documentation format I use across every SQL project here, written up in full: a boxed WHY header that stores the decision behind a query, a clause-by-clause read-out-loud block a beginner can follow, and a query body left completely clean. Includes the full before and after, the conventions that keep a long `.sql` file readable, and the self-explanation and generation-effect research the format rests on. Also on [DEV](https://dev.to/michaelnocito/how-to-comment-sql-so-it-teaches-42ak).
 
-The format above is free. **[The SQL Comment System](https://gumroad.com/u/vsxo9laj)** ($29) is the agent that enforces it, plus a 12-point scoring rubric and handoff-mode examples.
-
-**→ [14 analyst how-to guides](https://michaelnocito.github.io/analyst-prep-kit/guides/)** covering SQL, thresholds, metric definitions, entity resolution, Git, and large datasets.
-
 ---
 
 ## Tools & Learning Games
@@ -65,6 +55,4 @@ The format above is free. **[The SQL Comment System](https://gumroad.com/u/vsxo9
 
 ---
 
-I also draw [charcoal portraits](https://michaelnocito.github.io/art/), mostly dogs, occasionally cats.
-
-*Always building. Reach me on [LinkedIn](https://www.linkedin.com/in/michaelnocito).*
+*Reach me on [LinkedIn](https://www.linkedin.com/in/michaelnocito).*
