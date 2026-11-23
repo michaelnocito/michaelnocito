@@ -1,6 +1,6 @@
 # Hi, I'm Michael Nocito
 
-I love learning and the science of how we learn, and I'm just as drawn to data and the science behind it. Most of what I build comes from putting those two together. Data analyst in Glassboro, NJ, with eight years as an implementation analyst migrating enterprise contract data and owning projects end to end. I work in SQL, Python, and Excel, turning messy data into clear answers.
+I love learning and the science of how we learn, and I'm just as drawn to data and the science behind it. Most of what I build comes from putting those two together. Implementation analyst in Glassboro, NJ, with eight years as an implementation analyst migrating enterprise contract data and owning projects end to end. I work in SQL, Python, and Excel, turning messy data into clear answers.
 
 I build tools for analysts that are low-friction, beginner-friendly, and made to keep challenging you as your skills grow.
 
